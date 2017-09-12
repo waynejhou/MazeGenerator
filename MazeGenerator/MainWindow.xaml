@@ -296,6 +296,7 @@
                         </Slider.Resources>
                     </Slider>
                     <Label x:Name="LabelSize" Content="MazeSize: 10" Margin="0,0,5,1" Grid.Row="2" Background="{x:Null}" RenderTransformOrigin="1.37,0.375" HorizontalAlignment="Right" Width="83" Height="16" VerticalAlignment="Bottom" Padding="0" Grid.ColumnSpan="2"/>
+                    <Button Content="ShowPath" Grid.Column="1" HorizontalAlignment="Left" Margin="5,5,0,0" Grid.Row="1" VerticalAlignment="Top" Width="65" Height="25"/>
                 </Grid>
             </Border>
             <Border BorderThickness="0" Grid.Column="1" Grid.Row="1">
